@@ -48,7 +48,7 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-<h3>index.html</h3>
+index.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -133,7 +133,7 @@ Upload to GitHub Pages for free hosting.
 </body>
 </html>
 ```
-<h3>style.css</h3>
+style.css
 ```
 * {
   margin: 0;
@@ -303,13 +303,13 @@ section h2 {
 ```
 
 ## OUTPUT
-<h3>About</h3>
+About Page
 ![about](https://github.com/user-attachments/assets/c3ce8ac9-a168-46c0-9cbe-0c0d2e471b0c)
 
-<h3>Projects</h3>
+Project Page
 ![project](https://github.com/user-attachments/assets/ce7ca79e-15bd-409a-ad26-1df30c4941d8)
 
-<h3>Contact</h3>
+Contact Page
 ![contact](https://github.com/user-attachments/assets/2168bc9e-7b6e-4e1f-ae38-e2465e37c4a8)
 
 ## RESULT
