@@ -66,7 +66,7 @@ index.html
   <header class="header">
     <div class="container">
       <div class="profile-image">
-        <img src="my.jpg" alt="Your Name">
+        <img src="my.jpg"">
       </div>
       <div class="header-content">
         <h1>Roop Sagar S L</h1>
